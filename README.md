@@ -1,15 +1,19 @@
+<h1>Hello, world! 👋</h1>
+
+<p align="center">
+  <img
+    src="./assets/Ovo.JPG"
+    width="260"
+    alt="Ovo"
+  />
+</p>
+
 <div align="center">
-  <h1>Nice to meet you! 👋</h1>
-
-  <p>
-    <img src="./assets/Ovo.JPG" width="280" alt="Ovo" />
-  </p>
-
-  <h2>Hi, I'm jr :)</h2>
-  <p>Undergraduate Computer Science student</p>
-
-  <hr />
-
-  <h2>About me</h2>
-  <p>...</p>
+  <p>Hi there, I'm .--- .-. (^^) Nice to meet you!</p>
 </div>
+
+<hr />
+
+<h3>About me</h3>
+
+<p>🎓 Undergraduate Computer Science student</p>
